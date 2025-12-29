@@ -1,2 +1,2 @@
 # Firewall
-Using this to keep scripts on Firewalls scripts I write to decrypt firewalls
+Using this to make Firewall configs easier to read
